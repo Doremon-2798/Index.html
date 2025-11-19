@@ -1,1 +1,9 @@
-THIS IS jsut a new file i just created in vs code and now i will push this to git
+1. <h1>This is Gowtham.</h1>
+
+2. After you writting the index.html >>> you need to install web server like nginx or apache.
+
+3. After installing nginx you can mv the index.html file to var/www/html path.
+
+4. you need to open the 80 port as 80 port is teh nginx web server port.
+
+5. after you mv the file you can open in browser.
