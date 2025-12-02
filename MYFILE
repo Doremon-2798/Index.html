@@ -7,3 +7,5 @@
 4. you need to open the 80 port as 80 port is teh nginx web server port.
 
 5. after you mv the file you can open in browser.
+
+6. im just created the feature branch 1 and merging it with main branch now.
